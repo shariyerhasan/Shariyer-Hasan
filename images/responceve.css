@@ -1,0 +1,292 @@
+/* =======================
+1300
+========================== */
+@media only screen and (min-width:1500px){
+    .svg2 {
+        left: 200px;
+    }
+    .main-img1 {
+        height: 100% !important;
+        width: 100%!important;
+        margin-left: -20px;
+    }
+    .imagee{
+        width: 100%;
+    }
+}
+@media only screen and (min-width:1700px){
+    .svg2 {
+        left: 200px;
+    }
+
+}
+@media only screen and (min-width:1800px){
+    .svg2 {
+        left: 210px;
+    }
+}
+/* =======================
+1300
+========================== */
+@media only screen and (max-width:1300px){
+    .main-img1{
+        height:100% !important;
+        width: 100%!important;
+    } 
+    .main-text{
+    font-size: 36px;
+    }
+    .main-img3{
+        position: absolute;
+        top: -60px;
+         right: 20px;
+        width: 180px;
+    }
+    .main-img2{
+        height: 150px;
+        width: 150px;
+        left: -130px;
+    }
+    .svg2{
+        position: absolute;
+        left: 160px;
+        top: -150px;
+        width: 30vw !important;
+    }
+}
+
+/* =======================
+1100
+========================== */
+@media only screen and (max-width:1100px){
+
+    .main-img2{
+        height: 130px;
+        width: 130px;
+        left: -130px;
+    }
+    .main-heading{
+    font-size: 51px;
+    }
+    .navbar-nav .nav-item .nav-link {
+        font-size: 15px;
+        margin: 0px 5px;
+        }
+        .b-card{
+            min-height: 200px;
+        }
+        .card-div{
+            padding: 0px 20px;
+            margin-top: 30px;
+        }
+}
+
+/* =======================
+991
+========================== */
+@media only screen and (max-width:991px){
+    .nav-btn{
+        margin: 0px !important;
+        }
+    .main-img{
+        display: flex;
+        justify-content: flex-end;
+        padding-bottom: 30px;
+        margin-top: 100px !important;
+    }
+  .main-img1{
+      width: 100% !important;
+  }
+  .main-img2{
+    height: 160px;
+    width: 160px;
+    position: absolute;
+    bottom: 50px;
+    left: -2vw;
+    display: none;
+}
+.svg2{
+    position: absolute;
+    left: 160px;
+    top: -140px;
+    width: 45vw !important;
+
+}
+.row-2{
+    margin-top: 0px !important;
+}
+}
+
+/* =======================
+669
+========================== */
+@media only screen and (max-width:670px){
+    body{
+        overflow-x: hidden;
+    }
+    .space{
+        padding: 0px 10px !important;
+    }
+    .shadow1{
+        width: 99vw !important;
+    }
+    .shadow2{
+        width: 99vw;
+    }
+    .shadow3{
+        width: 99vw;
+    }
+    .shadow5{
+        width: 99vw;
+    }
+    .shadow6{
+        width: 99vw;
+    }
+    .shadow7{
+        width: 99vw;
+    }
+    .shadow8{
+        width: 99vw;
+    }
+    .shadow9{
+        width: 99vw;
+    }
+    .shadow10{
+        width: 100vw;
+    }
+    .shadow11{
+        width: 100vw;
+    }
+       
+
+    .svg1{
+   height: 300px;
+   width: 200px;
+    }
+    .svg1 path{
+        fill-opacity: 0.39;
+    }
+    .svg3 path{
+        fill-opacity: 0.39;
+    }
+    .svg5 path{
+        fill-opacity: 0.39;
+    }
+    .main-heading{
+        font-size: 35px !important;
+        line-height: 54px;
+        }
+        .main-text{
+            font-size: 26px;
+            line-height: 44px;
+            }
+
+            .hero-section {
+                margin-top: 30px !important;
+            }
+
+            .svg2{
+                position: absolute;
+                left: 40px;
+                top: -180px;
+                width: 76vw !important;
+            
+            }
+            .heading{
+                font-size: 35px;
+                margin-left: 0px;
+                line-height: 41px;
+            }
+            .text{
+                font-size: 20px;
+                line-height: 25px;
+            }
+            .f-47{
+            font-size: 40px;
+            line-height: 46px;
+            }
+            .svg4{
+                display: none;
+            }
+            .input-div button{
+                font-size: 12px;
+                width: 150px !important;
+                white-space: nowrap;
+                height: 44px;
+                margin-top: 0px;
+            }
+            .footer-list{
+               padding: 0px;
+            }
+            .mt-4{
+                margin-top: 20px !important;
+            }
+}
+
+
+
+
+/* =======================
+446
+========================== */
+@media only screen and (max-width:446px){
+    .navbar-brand img{
+        width: 120px;
+        height: auto;
+        }
+    .main-heading{
+        font-size: 26px !important;
+        line-height: 44px;
+        }
+        .main-text{
+            font-size: 23px;
+            line-height: 44px;
+        }
+
+        .main-btn{
+            width: 161px;
+            height: 40px;
+            font-size: 14px;
+            line-height: 24px;
+            margin-top: 20px !important;
+            }
+            .svg2{
+                position: absolute;
+                left: 6vw;
+                top: -200px;
+                width: 75vw !important;
+            
+            }
+           
+            .hero-section2{
+                margin-top: 100px;
+            }
+            .svg4{
+                top: 0px;
+                display: none;
+            }
+            .f-47{
+                font-size: 30px;
+                line-height: 46px;
+                }
+                .text2{
+                    font-size: 23px;
+                    line-height: 25px;
+                }
+                .f-19{
+                    font-size: 14px;
+                    position: relative;
+                    z-index: 5;
+                    color: white;
+                }
+                .shadow10{
+                    position: absolute;
+                    right: 0px;
+                    left: 0px;
+                    bottom: -80px;
+                    z-index: 3;  
+                }
+                .footer{
+                  padding: 30px 0px !important;
+                }
+}

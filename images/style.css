@@ -1,0 +1,661 @@
+body{
+    background-color:  #111111;
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.space{
+    padding: 0px 53px !important;
+    position: relative;
+}
+.navbar-brand img{
+width: 130px;
+height: auto;
+}
+.navbar-nav .nav-item .nav-link {
+font-family: 'DM Sans', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 22px;
+letter-spacing: 0.05em;
+text-transform: uppercase;
+color: #FFFFFF;
+margin: 0px 10px;
+}
+
+.nav-btn{
+background: linear-gradient(90deg, #989AF3 0.52%, #5E60CE 100%);
+border-radius: 20px;
+border: 0px;
+height: 40px;
+}
+.nav-btn:hover{
+    background: linear-gradient(90deg, #8788ea 0.52%, #4749b9 100%);
+    border-radius: 20px;
+    border: 0px;
+    height: 40px;
+}
+.nav-btn a{
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 24px;
+color: #FFFFFF;
+}
+.navbar-dark .navbar-toggler{
+    position: relative;
+    z-index: 5;
+}
+/* =============================
+hero section
+================================ */
+.hero-section{
+    margin-top: 100px !important;
+}
+.main-heading{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 61px;
+line-height: 74px;
+letter-spacing: -1px;
+color: #9597F1;
+position: relative;
+z-index: 5;
+}
+.main-text{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 46px;
+line-height: 64px;
+letter-spacing: -1px;
+color: #FFFFFF;
+position: relative;
+z-index: 5;
+}
+.main-btn{
+font-family: 'Roboto';
+width: 181px;
+height: 46px;
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 24px;
+color: #FFFFFF;
+background: #121213;
+border: 1px solid #6163D0;
+box-sizing: border-box;
+box-shadow: 0px 2px 13px #9092EE;
+border-radius: 50px;
+position: relative;
+z-index: 5;
+}
+.image{
+    position: relative;
+    z-index: 5;
+}
+
+.main-img{
+    position: relative;
+}
+.main-img1{
+    height:370px !important;
+    width: 100%!important;
+    margin-left: -20px;
+    
+} 
+.main-img3{
+    position: absolute;
+    top: -100px;
+     right: 0px;
+}
+.main-img3:hover{
+    top: -110px;
+    animation-duration: 5s;
+    cursor: pointer;
+}
+.main-img2{
+    position: absolute;
+    bottom: 14px;
+    left: -160px;
+}
+.image2{
+    position: relative;
+}
+.hero-section2{
+    margin-top: 200px;
+}
+.text{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 39px;
+/* or 130% */
+
+text-align: center;
+letter-spacing: -1px;
+
+color: #FFFFFF;
+position: relative;
+z-index: 5;
+}
+.text-left{
+    text-align: left;
+}
+
+
+
+/* ====================
+section 3
+==================== */
+.f-40{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 61px;
+    letter-spacing: -1px;
+    color: #9597F1;
+    position: relative;
+    z-index: 5;
+}
+.f-40 span{
+
+    color: #FFFFFF;
+}
+/* =================
+section6
+============== */
+.heading{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 61px;
+text-align: center;
+letter-spacing: -1px;
+color: white;
+margin-top: 100px;
+margin-left: -30px;
+position: relative;
+z-index: 5;
+}
+.heading span{
+color: 
+#9597F1;
+
+}
+.image-6{
+    position: relative;
+}
+.f-47{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 47px;
+line-height: 56px;
+letter-spacing: -1px;
+color: #FFFFFF;
+position: relative;
+z-index: 5;
+}
+.f-60{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 60px;
+line-height: 74px;
+letter-spacing: 2px;
+color: #9597F1;
+}
+/* ==================
+section 9
+========================= */
+.b-card{
+    min-height: 170px;
+    background: linear-gradient(252.14deg, rgba(95, 97, 206, 0.03) 0%, rgba(29, 27, 41, 0.24) 49.69%, #1C1B1B 91.47%);
+box-shadow: 0px 3px 13px rgba(144, 146, 238, 0.69);
+border-radius: 14px;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+position: relative;
+z-index: 5;
+padding: 0px 20px;
+margin-top: 10px;
+}
+
+.b-text{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 28px;
+    /* or 114% */
+    
+    text-align: center;
+    
+    color: #9597F1;
+    margin-top: 10px;
+}
+.card-div{
+    padding: 0px 50px;
+    margin-top: 30px;
+}
+.row-2{
+    margin-top: 40px !important;
+}
+/* ==============
+section 10
+===================== */
+.text2{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 39px;
+text-align: center;
+letter-spacing: -1px;
+color: #9597F1;
+
+}
+span{
+color: white;
+
+}
+.input-div{
+height: 53px;
+background: rgba(18, 18, 19, 0.2);
+border: 1px solid #6163D0;
+box-sizing: border-box;
+box-shadow: 0px 2px 13px #9092EE;
+border-radius: 50px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 0px 10px;
+position: relative;
+z-index: 5;
+}
+.input-div input{
+    background-color: transparent;
+    border: none;
+   background-color: transparent;
+   font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 24px;
+color: rgba(255, 255, 255, 0.5);
+padding: 0px 10px;
+width: 70%;
+ }
+ .input-div input:focus-visible{
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+ }
+ .input-div input::placeholder{
+    background-color: transparent;
+    font-family: 'Roboto';
+ font-style: normal;
+ font-weight: 400;
+ font-size: 17px;
+ line-height: 24px;
+ color: rgba(255, 255, 255, 0.5);
+  }
+  .input-div button{
+    background: #6163D0;
+    border: 1px solid #6163D0;
+    box-sizing: border-box;
+    border-radius: 50px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 24px;
+color: #FFFFFF;
+
+width: 225px !important;
+height: 46px;
+margin-right: -6px;
+margin-top: -2px;
+ }
+ .input-div button:hover{
+    background: #4748a8;
+    border: 1px solid #6163D0;
+ }
+
+ /* ======================
+ footer
+ ============================== */
+ .footer{
+     padding: 120px 0px !important;
+ }
+ .f-18{
+     
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+color: #FFFFFF;
+ }
+.footer-list{
+    list-style: none;
+    
+}
+.footer-list li{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+color: #FFFFFF;
+padding: 12px 0px;
+}
+.arrow{
+    position: absolute;
+    bottom: 10px;
+    right: 30px;
+    height: 30px;
+    width: 30px;
+    background-color: #4748a8;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    z-index: 6;
+}
+.arrow-btn{
+    stroke: white !important;
+    fill: white !important;
+    color: white !important;
+}
+.f-heading{
+    font-family: 700 !important;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+    padding: 12px 0px;
+}
+.f-18{
+    font-size: 20px !important;
+}
+.copy{
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 20px 0px;
+}
+.f-19{
+    font-size: 18px;
+    position: relative;
+    z-index: 5;
+    color: white;
+}
+.video-modal{
+    background-color: #111111;
+}
+.btn-close1{
+    color: white;
+    background-color: transparent;
+    border: none;
+    font-size: 16px;
+    font-weight: 700;
+}
+.text_1 {
+    animation: text1;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 46px;
+    line-height: 64px;
+    letter-spacing: -1px;
+    color: #FFFFFF;
+    position: relative;
+    z-index: 5;
+  }
+  
+  .text_2 {
+    animation: text2;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 46px;
+    line-height: 64px;
+    letter-spacing: -1px;
+    color: #FFFFFF;
+    position: relative;
+    z-index: 5;
+  }
+  .text_3 {
+    animation: text3;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 46px;
+    line-height: 64px;
+    letter-spacing: -1px;
+    color: #FFFFFF;
+    position: relative;
+    z-index: 5;
+  }
+  .text_1, .text_2 , .text_3 {
+    overflow: hidden;
+    white-space: nowrap;
+    display: inline-block;
+    position: relative;
+    animation-duration: 20s;
+    animation-timing-function: steps(25, end);
+    animation-iteration-count: infinite;
+  }
+  
+  .text_1::after, .text_2::after ,.text_3::after {
+    content: "|";
+    position: absolute;
+    right: 0;
+    animation: caret infinite;
+    animation-duration: 1s;
+    animation-timing-function: steps(1, end);
+  }
+
+  @keyframes text2 {
+    0%, 50%, 100% {
+      width: 0;
+    }
+    
+    60%, 90% {
+      width: 21.2em;
+    }
+  }
+  
+  @keyframes text2 {
+    0%, 50%, 100% {
+      width: 0;
+    }
+    
+    60%, 90% {
+      width: 21.2em;
+    }
+  }
+  
+  @keyframes text1 {
+    0%, 50%, 100% {
+      width: 0;
+    }
+    10%, 40% {
+      width: 17em;
+    }
+  }
+  
+  @keyframes caret {
+    0%, 100% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+    }
+  }
+  
+  
+  
+  
+  
+  
+  
+.typewriter .textt{
+    color: #fff;
+    overflow: hidden; /* Ensures the content is not revealed until the animation */
+    border-right: .15em solid #4748a8; /* The typwriter cursor */
+    white-space: nowrap; /* Keeps the content on a single line */
+    animation: 
+      typing 5s steps(30, end) infinite,
+      blink-caret .5s step-end infinite;
+  }
+
+  .typewriter .texttt{
+    color: #fff;
+    overflow: hidden; /* Ensures the content is not revealed until the animation */
+    border-right: .15em solid #4748a8; /* The typwriter cursor */
+    white-space: nowrap; /* Keeps the content on a single line */
+    animation: 
+      typing 5s steps(30, end) infinite,
+      blink-caret .5s step-end infinite;
+  }
+  .typewriter .textttt{
+    color: #fff;
+    overflow: hidden; /* Ensures the content is not revealed until the animation */
+    border-right: .15em solid #4748a8; /* The typwriter cursor */
+    white-space: nowrap; /* Keeps the content on a single line */
+    animation: 
+      typing 5s steps(30, end) infinite,
+      blink-caret .5s step-end infinite;
+  }
+  
+  /* The typing effect */
+  /* @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  } */
+  
+  /* The typewriter cursor effect */
+  /* @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: #4748a8 }
+  } */
+.scroller{
+    height: 500px;
+    overflow-y: scroll;
+    position: relative;
+    z-index: 5;
+}
+.scroller img{
+ width: 100%;
+}
+.scroller::-webkit-scrollbar {
+    width: 5px;
+}
+ 
+.scroller::-webkit-scrollbar-track {
+    background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%);
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
+ 
+.scroller::-webkit-scrollbar-thumb {
+ background: linear-gradient(180deg, #9597F1 0%, #6163D0 100%);;
+  outline: 1px solid slategrey;
+}
+
+
+/* background styling svgs */
+.shadow1{
+    position: absolute;
+    top: -10px;
+    left: 0px;
+    z-index: 3;
+}
+.svg1{
+    position: absolute;
+    top: 40px;
+    right: 0px;
+    z-index: 3;
+}
+.shadow2{
+    position: absolute;
+    top: -500px !important;
+    left: 0px;
+    z-index: 3;
+}
+.shadow3{
+    position: absolute;
+    top: -100px;
+   right: 0px;
+    z-index: 3;
+}
+.shadow5{
+    position: absolute;
+    top: -400px;
+    right: 0px;
+    z-index: 3;
+}
+.shadow7{
+    position: absolute;
+    left: 0px;
+    top: -300px;
+    z-index: 3;  
+}
+.shadow8{
+    position: absolute;
+    right: 0px;
+    top: -100px;
+    z-index: 3;  
+}
+
+.shadow9{
+    position: absolute;
+    right: 0px;
+    left: 0px;
+    top: -330px;
+    z-index: 3;  
+}
+.shadow10{
+    position: absolute;
+    right: 0px;
+    left: 0px;
+    bottom: -70px;
+    z-index: 3;  
+}
+.svg2{
+    position: absolute;
+    left: 160px;
+    top: -120px;
+    width: 40vw !important;
+}
+.svg3{
+    position: absolute;
+    top: -40px;
+    right: 0px;
+    z-index: 3;
+}
+.svg4{
+    position: absolute;
+    top: 40px;
+    left: -200px;
+    z-index: 3;
+}
+.svg5{
+    position: absolute;
+    top: -30px;
+    left: 0px;
+    z-index: 0 !important;
+}
+
+.modal-dialog{
+max-width: 80vw !important;
+}
